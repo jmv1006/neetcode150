@@ -22,4 +22,4 @@ def isValid(s):
 
 
 s="(){}("
-print(isValid(s))
+isValid(s)
